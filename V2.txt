@@ -1,0 +1,1 @@
+vless://ee1cc081-7cef-4ff3-b952-06539c731157@162.159.248.67:443?path=%2F%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=cardervpn1.pages.dev&fp=chrome&type=ws&sni=cardervpn1.pages.dev#%F0%9F%94%92+VL-WS-TLS+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+NA-162.159.248.67%3A443+%F0%9F%93%A1+PING-001.35-MS
